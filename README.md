@@ -10,7 +10,7 @@ Pokemon App written in Swift (UIKit).
 Интерфейс написан кодом, без использования сторибордов. 
 
 Был заложен в планах поиск по ячейкам и быстрый предпроссмотр (popupView). Не успел. 
-Реализую в следующих версиях. 
+Реализую в следующих версиях.
 
 ![IMG_1661](https://github.com/lepranby/Pokepedia/assets/113884557/e33892cc-884f-4e1e-b2b1-85a9e4bc2bcb)
 ![IMG_1658](https://github.com/lepranby/Pokepedia/assets/113884557/958214b0-051b-4332-954b-55f492bcf1b4)
